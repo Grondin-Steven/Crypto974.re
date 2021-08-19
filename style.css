@@ -1,0 +1,56 @@
+.section_2 {
+    
+    padding: 100px;
+}
+
+.section_3 {
+    height: 600px;
+    padding: 50px;
+}
+
+.section_4 {
+    height: 600px;
+    padding: 50px;
+}
+
+.section_5 {
+    height: 600px;
+    padding: 50px;
+}
+
+.navbar {
+    position: fixed;
+    z-index: 667;
+    width: 100%;
+}
+
+.section_6 {
+    height: 140px;
+    padding: 55px;
+    background-color: #004AAD;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.btn_principal {
+    color: white;
+    border-radius: 20px;
+}
+
+.inc {
+    color: white;
+}
+
+.col-lg-4 {
+    text-align: center;
+}
+
+.profil_user {
+    margin-left: 10px;
+}
